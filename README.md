@@ -15,7 +15,7 @@ This assessment evaluates your **React.js skills** by having you build a **setti
 You should design the settings page to resemble **PocketBase’s admin settings page**.  
 
 ### **How to Access the Demo**  
-1️⃣ Open the **[PocketBase Demo](https://demo.pocketbase.io/_/)** in your browser.  
+1️⃣ Open the **[PocketBase Demo](https://pocketbase.io/demo)** in your browser.  
 2️⃣ Login with the demo credentials:  
    - **Email**: `admin@demo.com`  
    - **Password**: `admin123`  
