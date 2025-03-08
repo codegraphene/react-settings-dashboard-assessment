@@ -17,8 +17,8 @@ You should design the settings page to resemble **PocketBase’s admin settings 
 ### **How to Access the Demo**  
 1️⃣ Open the **[PocketBase Demo](https://pocketbase.io/demo)** in your browser.  
 2️⃣ Login with the demo credentials:  
-   - **Email**: `admin@demo.com`  
-   - **Password**: `admin123`  
+   - **Email**: `test@example.com`  
+   - **Password**: `123456`  
 3️⃣ Navigate to the **"Settings"** section in the sidebar.  
 4️⃣ Observe how the **sidebar navigation, forms, and layout** work.  
 
